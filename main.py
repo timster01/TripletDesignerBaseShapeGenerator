@@ -1,4 +1,4 @@
-#https://ezdxf.readthedocs.io/en/stable/addons/pycsg.html
+#https://ezdxf.readthedocs.io/en/stable/addons/openscad.html
 import ezdxf
 from ezdxf.render.forms import cube, extrude
 from ezdxf.addons import openscad, meshex

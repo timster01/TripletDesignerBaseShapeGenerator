@@ -9,7 +9,6 @@ msp = doc.modelspace()
 
 # create same geometric primitives as MeshTransformer() objects
 cube1 = cube()
-slant = cube()
 
 views = ["Full", "TopLeft", "TopRight", "BottomLeft", "BottomRight"]
 front = [(0.5,-0.5,0.5), (-0.5,-0.5,0.5), (-0.5,0.5,0.5),(0.5,0.5,0.5)]
